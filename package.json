@@ -1,0 +1,14 @@
+{
+  "name": "dbot",
+  "version": "1.0.0",
+  "description": "a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "DMark",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
